@@ -13,7 +13,7 @@ public class Estudiante extends Usuario {
     public void mostrarMenu(SistemaSerenityLab sistema, Scanner scanner) {
         int opcion;
         do {
-            System.out.println("--- Menú de Estudiante ---");
+            System.out.println("- Menú de Estudiante -");
             System.out.println("-");
             System.out.println("1. Ver Horarios Disponibles");
             System.out.println("2. Agendar Cita");
